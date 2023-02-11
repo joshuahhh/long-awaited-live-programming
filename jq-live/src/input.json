@@ -1,0 +1,30 @@
+{
+  "adjective": {
+    "syn": [
+      "amusing",
+      "amusive",
+      "diverting"
+    ],
+    "sim": [
+      "entertaining"
+    ]
+  },
+  "noun": {
+    "syn": [
+      "merriment",
+      "playfulness",
+      "play",
+      "sport",
+      "activity",
+      "diversion",
+      "frivolity",
+      "frivolousness",
+      "humor",
+      "humour",
+      "recreation",
+      "wit",
+      "witticism",
+      "wittiness"
+    ]
+  }
+}
